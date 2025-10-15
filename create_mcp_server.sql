@@ -1,4 +1,4 @@
-create database health_db if not exists;
+create database if not exists health_db;
 use database health_db;
 use schema public;
 create or replace mcp server health_mcp_server from specification
