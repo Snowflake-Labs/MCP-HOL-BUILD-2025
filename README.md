@@ -1,9 +1,4 @@
-# MCP-HOL-BUILD-2025
-BUILD Agent Powered Workflows Using Snowflake Cortex AI and Managed MCP Servers
-
-# Evaluate and Trace LangGraph MCP Tool Selection
-
-This notebook demonstrates how to use TruLens to trace and evaluate LangGraph applications that use Model Context Protocol (MCP) tools.
+# BUILD Agent Powered Workflows Using Snowflake Cortex AI and Managed MCP Servers
 
 ## Overview
 
