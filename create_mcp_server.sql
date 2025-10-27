@@ -1,3 +1,10 @@
+use role accountadmin;
+
+create warehouse if not exists mcp_wh;
+use warehouse mcp_wh;
+
+grant usage on warehouse mcp_wh to role public;
+
 create database if not exists health_db;
 use database health_db;
 use schema public;

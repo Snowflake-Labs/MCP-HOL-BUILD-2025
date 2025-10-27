@@ -1,4 +1,5 @@
-create database health_db if not exists;
+USE ROLE ACCOUNTADMIN;
+use warehouse mcp_wh;
 use database health_db;
 use schema public;
 create or replace mcp server health_mcp_server_v2 from specification
