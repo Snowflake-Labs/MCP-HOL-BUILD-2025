@@ -8,4 +8,4 @@ We'll build a health research agent that uses MCP tools to query:
 
 We'll also show a powerful evaluation flow using AI Observability that you can use to improve your MCP tool descriptions.
 
-Get started by opening the [notebook](./build-and-evaluate-langgraph-agents-with-mcp-tools.ipynb) and following the instrucitons there.
+Get started by opening the [notebook](./build-and-evaluate-langgraph-agents-with-mcp-tools.ipynb) and following the instructions there.
