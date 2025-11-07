@@ -27,7 +27,7 @@ USE ROLE ACCOUNTADMIN;
 
 GRANT USAGE ON MCP SERVER health_mcp_server TO ROLE PUBLIC;
 
--- 3. Grant permissions for AI Observability
+-- 3. Grant permissions for AI Observability (not needed if using TruLens OSS)
 
 USE ROLE ACCOUNTADMIN;
 
